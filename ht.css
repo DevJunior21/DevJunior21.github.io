@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.estudante{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 500px;
+    margin-bottom: 30px;
+}
+
+.softwareskills{
+    margin-bottom: 10px;
+    margin-left: 40px;
+    
+}
+
+.skills{
+    margin-left: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+
+}
+
+
+.hardskills{
+    margin-left: 40px;
+    margin-bottom: 10px;
+
+}
+
+
+.link{
+    text-align: center;
+    font-size: 20px
+}
+
+.cont{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+.wpp{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    right: 40px;
+    bottom: 40px;
+    background-color: #25d662 ;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1 px 1 px 2 px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp{
+    margin-top: 16px;
+}
